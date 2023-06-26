@@ -96,7 +96,7 @@ class Screen extends StatelessWidget {
 
                   // context.setLocale(Locale('ur', 'PK'));
 
-                }, child: const Text('Slect Language')),
+                }, child: const Text('Select Language')),
               ],
             )
           ],

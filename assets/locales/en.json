@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome to the Fruit Cart App!",
+  "title": "Fruits",
+  "searchHint": "Search for fruits",
+  "cart": "Cart",
+  "button": "Clear Cart",
+  "a1": "Apple",
+  "a2": "Bannana",
+  "a3": "Orange",
+  "a4": "Grapes",
+  "a5": "Pineapple",
+  "select": "Select Language"
+}
